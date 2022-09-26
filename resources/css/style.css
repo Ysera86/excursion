@@ -26,3 +26,8 @@ body{
 }
 
 /* FOOTER */
+
+.footer--paragraph{
+    text-align: right;
+    color: grey;
+}
